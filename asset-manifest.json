@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Sultan_Tracker/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Sultan_Tracker/static/js/main.e198b925.chunk.js",
-    "main.js.map": "/Sultan_Tracker/static/js/main.e198b925.chunk.js.map",
+    "main.js": "/Sultan_Tracker/static/js/main.da14be5b.chunk.js",
+    "main.js.map": "/Sultan_Tracker/static/js/main.da14be5b.chunk.js.map",
     "runtime-main.js": "/Sultan_Tracker/static/js/runtime-main.48b5f8d0.js",
     "runtime-main.js.map": "/Sultan_Tracker/static/js/runtime-main.48b5f8d0.js.map",
     "static/css/2.f527e924.chunk.css": "/Sultan_Tracker/static/css/2.f527e924.chunk.css",
-    "static/js/2.9c22d02a.chunk.js": "/Sultan_Tracker/static/js/2.9c22d02a.chunk.js",
-    "static/js/2.9c22d02a.chunk.js.map": "/Sultan_Tracker/static/js/2.9c22d02a.chunk.js.map",
+    "static/js/2.d4072d6b.chunk.js": "/Sultan_Tracker/static/js/2.d4072d6b.chunk.js",
+    "static/js/2.d4072d6b.chunk.js.map": "/Sultan_Tracker/static/js/2.d4072d6b.chunk.js.map",
     "index.html": "/Sultan_Tracker/index.html",
-    "precache-manifest.3a919b7bca248cc166b1d70b6a1c77b2.js": "/Sultan_Tracker/precache-manifest.3a919b7bca248cc166b1d70b6a1c77b2.js",
+    "precache-manifest.fd9c66765da0ce4b763e184f3ad5c738.js": "/Sultan_Tracker/precache-manifest.fd9c66765da0ce4b763e184f3ad5c738.js",
     "service-worker.js": "/Sultan_Tracker/service-worker.js",
     "static/css/2.f527e924.chunk.css.map": "/Sultan_Tracker/static/css/2.f527e924.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Sultan_Tracker/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9c22d02a.chunk.js.LICENSE.txt": "/Sultan_Tracker/static/js/2.9c22d02a.chunk.js.LICENSE.txt",
+    "static/js/2.d4072d6b.chunk.js.LICENSE.txt": "/Sultan_Tracker/static/js/2.d4072d6b.chunk.js.LICENSE.txt",
     "static/media/439882.png": "/Sultan_Tracker/static/media/439882.597c824e.png",
     "static/media/TRACK.png": "/Sultan_Tracker/static/media/TRACK.18b414a3.png",
     "static/media/abid.jpg": "/Sultan_Tracker/static/media/abid.14a2ca8e.jpg",
@@ -40,7 +40,6 @@
     "static/media/rev3.webp": "/Sultan_Tracker/static/media/rev3.5a6fa04c.webp",
     "static/media/review.webp": "/Sultan_Tracker/static/media/review.d0ae294d.webp",
     "static/media/rrr.jpeg": "/Sultan_Tracker/static/media/rrr.54d254d6.jpeg",
-    "static/media/rrrr.jpg": "/Sultan_Tracker/static/media/rrrr.24d450b5.jpg",
     "static/media/saimul.jpg": "/Sultan_Tracker/static/media/saimul.7660578d.jpg",
     "static/media/shamim.jpg": "/Sultan_Tracker/static/media/shamim.c04ba4dc.jpg",
     "static/media/sharing.png": "/Sultan_Tracker/static/media/sharing.84fd60a1.png",
@@ -51,13 +50,13 @@
     "static/media/speed2.png": "/Sultan_Tracker/static/media/speed2.ac0d4f16.png",
     "static/media/summery.png": "/Sultan_Tracker/static/media/summery.94288198.png",
     "static/media/summery2.png": "/Sultan_Tracker/static/media/summery2.580014cc.png",
-    "static/media/traffic.png": "/Sultan_Tracker/static/media/traffic.ed9205eb.png"
+    "static/media/traffic.png": "/Sultan_Tracker/static/media/traffic.f2ce6170.png"
   },
   "entrypoints": [
     "static/js/runtime-main.48b5f8d0.js",
     "static/css/2.f527e924.chunk.css",
-    "static/js/2.9c22d02a.chunk.js",
+    "static/js/2.d4072d6b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e198b925.chunk.js"
+    "static/js/main.da14be5b.chunk.js"
   ]
 }
