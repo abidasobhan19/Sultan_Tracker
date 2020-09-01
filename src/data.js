@@ -42,7 +42,7 @@ export const featuredData = [
     image: liveTracking,
     title: "Live Tracking",
     description:
-      "Our real time tracking system gives you to monitor vehicles performance using your smartphone.The Directon and speed the vehicle is travelling .The Time since the last Gps report .The current address of a vehicle",
+      "One of the very basic and useful service for customer to track his vehicle location and states in Google Map. If Physical devices send data to our server it will instantly updates. Customer can monitor one or more vehicle from same account",
     animation: "fade-right",
   },
   {

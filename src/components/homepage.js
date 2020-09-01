@@ -28,11 +28,7 @@ const Homepage = () => {
         <Slider />
       </Box>
 
-      <Box
-        display="flex"
-        flexDirection="column"
-        style={{ height: 800, margin: 20 }}
-      >
+      <Box display="flex" flexDirection="column">
         <OurService />
       </Box>
 
@@ -43,7 +39,6 @@ const Homepage = () => {
       >
         {featuredData.map((item, index) => (
           <FeatureItem
-            style={{ margin: 30 }}
             key={index}
             image={item.image}
             title={item.title}

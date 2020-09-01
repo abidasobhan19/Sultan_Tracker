@@ -6,7 +6,15 @@ import Card from "@material-ui/core/Card";
 
 import Grid from "@material-ui/core/Grid";
 import Avatar from "@material-ui/core/Avatar";
-import { grey } from "@material-ui/core/colors";
+import {
+  grey,
+  blue,
+  indigo,
+  orange,
+  blueGrey,
+  amber,
+  lightBlue,
+} from "@material-ui/core/colors";
 
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -22,13 +30,21 @@ const OurService = () => {
         display="flex"
         flexDirection="column"
         alignItems="center"
+        style={{ padding: 10 }}
       >
-        <Typography variant="h4"> OurService </Typography>
-        <Typography variant="h6"> OurService </Typography>
+        <Typography variant="h4"> Our Service </Typography>
+        <Typography variant="h6"> Our Service </Typography>
       </Box>
 
       <Box>
-        <Grid container style={{ width: "100%", overflow: "hidden" }}>
+        <Grid
+          container
+          style={{
+            width: "100%",
+            overflow: "hidden",
+            backgroundColor: grey[300],
+          }}
+        >
           {ServiceData.map((item, index) => {
             return (
               <Grid
@@ -64,7 +80,6 @@ const OurService = () => {
                         height: 100,
                         width: 275,
                         paddingTop: 40,
-                        backgroundColor: grey[200],
                       }}
                     >
                       <Box display="flex" justifyContent="center">
