@@ -56,7 +56,19 @@ const Nav = (props) => {
               justify="flex-end"
               alignItems="center"
             >
-              <Button color="Black">Home</Button>
+              <Button color="Black">
+                <Link
+                  style={{ activeClass: "1px solid black" }}
+                  activeClass="active"
+                  to="marginTop"
+                  spy={true}
+                  smooth={true}
+                  offset={-70}
+                  duration={500}
+                >
+                  Home
+                </Link>
+              </Button>
               <Button color="Black">
                 <Link
                   style={{ activeClass: "1px solid black" }}

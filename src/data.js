@@ -9,6 +9,7 @@ import Speed from "./Image/Feature/speed violation.png";
 import Live from "./Image/Feature/live2.png";
 import Emergency from "./Image/Feature/sos.png";
 import Sharing from "./Image/Feature/carsharing.png";
+import Restrict from "./Image/Feature/restrictboundary.png";
 import Power from "./Image/Feature/power.png";
 import Car from "./Image/pro.png";
 import serviceTracking from "./Image/Service/feat1.png";
@@ -102,7 +103,7 @@ export const featuredData = [
     animation: "fade-right",
   },
   {
-    image: Milage,
+    image: Restrict,
     title: "Restrict Boundary",
     description:
       " Geo-Fence is a virtual perimeter for a real world geographic and .Its a virtual boundary system, which a vehicle can be ket safe by creating a virtual boundary around a paticular area on place If you leave the car in a specific area or place and turn on the geofence through the mobile app, the car will leave that place and the alert will be sent to the mobile through which the car can be rescued by taking immediate action or by turning off the car engine via sms. ",
