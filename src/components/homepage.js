@@ -14,6 +14,7 @@ import Contact from "./contact";
 import { featuredData } from "../data";
 import { grey } from "@material-ui/core/colors";
 import TopClients from "./topclients";
+import Screenshot from "./screenshot";
 // import {  } from "../servicedata";
 
 const Homepage = () => {
@@ -48,14 +49,10 @@ const Homepage = () => {
           />
         ))}
       </Box>
-      <Box
-        display="flex"
-        flexDirection="column"
-        style={{ height: 600, margin: 20 }}
-      >
+      <Box display="flex" flexDirection="column" style={{ margin: 20 }}>
         <Pricing />
       </Box>
-      <Box display="flex" flexDirection="column" style={{ height: 500 }}>
+      <Box display="flex" flexDirection="column">
         <Review />
       </Box>
       <Box
@@ -65,10 +62,13 @@ const Homepage = () => {
       >
         <Team />
       </Box>
-      <Box display="flex" flexDirection="column" style={{ height: 500 }}>
+      <Box display="flex" flexDirection="column">
+        <Screenshot />
+      </Box>
+      <Box display="flex" flexDirection="column">
         <TopClients />
       </Box>
-      <Box display="flex" flexDirection="column" style={{ height: 550 }}>
+      <Box display="flex" flexDirection="column">
         <Contact />
       </Box>
     </Box>

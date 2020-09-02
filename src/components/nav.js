@@ -114,6 +114,19 @@ const Nav = (props) => {
                 {" "}
                 <Link
                   activeClass="active"
+                  to="screenshot"
+                  spy={true}
+                  smooth={true}
+                  offset={-70}
+                  duration={500}
+                >
+                  ScreenShot
+                </Link>
+              </Button>
+              <Button color="Black">
+                {" "}
+                <Link
+                  activeClass="active"
                   to="client"
                   spy={true}
                   smooth={true}
