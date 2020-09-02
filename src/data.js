@@ -1,11 +1,11 @@
 import liveTracking from "./Image/Feature/livetracking.png";
 import Notification from "./Image/Feature/notifications.png";
 import Milage from "./Image/Feature/milage.png";
-import Fuel from "./Image/Feature/fuel.png";
+import Fuel from "./Image/Feature/fuelmonitoring.png";
 import Summery from "./Image/Feature/summery.png";
 import Alerts from "./Image/Feature/alerts.png";
 import Trafic from "./Image/Feature/traffic.png";
-import Speed from "./Image/Feature/speed violation.png";
+import Speed from "./Image/Feature/speedviolation.png";
 import Live from "./Image/Feature/live2.png";
 import Emergency from "./Image/Feature/sos.png";
 import Sharing from "./Image/Feature/carsharing.png";
@@ -43,7 +43,7 @@ export const featuredData = [
     image: liveTracking,
     title: "Live Tracking",
     description:
-      "One of the very basic and useful service for customer to track his vehicle location and states in Google Map. If Physical devices send data to our server it will instantly updates. Customer can monitor one or more vehicle from same account",
+      "Sultan Tracker vehicle tracking system enable you to keep your virtual eyes on your vehicles all the time and prevent unauthorized and fraudulent use of your assets. Live tracking system will provide you real-time view of your vehicle on map.",
     animation: "fade-right",
   },
   {
@@ -57,7 +57,7 @@ export const featuredData = [
     image: Fuel,
     title: "Fuel Monitoring",
     description:
-      "Easily check the tank’s fuel level and fuel consumption along the route in real time. Check for aggressive driving – rapid acceleration, speeding and braking – that can directly influence fuel consumption. It is a fact that improving driving behavior can cut your fuel costs significantly (by 5% to 15%). Moreover, fuel consumption control is a great preventive measure against fraud.",
+      "Sultan VTS will calculate your vehicle fuel consumption in accordance with mileage input and congestion time. From daily and monthly report you can approximately find how much fuel is consumed by your vehicle.",
     animation: "fade-up",
   },
   {
@@ -78,28 +78,28 @@ export const featuredData = [
     image: Alerts,
     title: "Alerts",
     description:
-      "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing",
+      "Effective alerts can prevent theft, misuse, unusual loss etc. Ignition alert will let you know about ignition status (Key in/out), fuel cut alert will make you more cautious to take preventive measure to avoid vehicle theft, GEO Fence alert will let you know if your car is moved from where you parked. All of our alerts are real-time, accurate and even proactive.",
     animation: "fade-left",
   },
   {
     image: Trafic,
     title: "Traffic Update",
     description:
-      "Always know what's happening on the road with Sultan Tracker .It tells you about traffic constructions,Crashes and more in real time",
+      "In crowded areas choosing best route can save tome & money. Sultan VTS shows traffic update in its associated map by color variation. Red is mostly crowded whereas blue means least crowded.",
     animation: "fade-right",
   },
   {
     image: Speed,
     title: "Speed Violation",
     description:
-      "Speed Violation Alert: You will get notified as soon as the car is moving faster than your tied speed",
+      "Over speed driving may cause fatal accident and results in life & money loss. Sultan GPS tracking system will allow you to set maximum velocity of your vehicle and when your car exceeds this speed limit you will receive instant notification. You can warn your driver not to exceed speed limit and thus you can ensure safety of passengers and assets.",
     animation: "fade-left",
   },
   {
     image: Emergency,
     title: "Emergency Button",
     description:
-      " When your driver or anybody are in danger and need help just pressing a button and ask for help",
+      "Driver as well as passengers boarding on it may fall in crisis like road accident, robbery, kidnaping, snatching etc. and need to inform vehicle owner. In this hazardous situation you can press SOS button of vehicle tracker that will forward an outgoing call to owner and receiving it he/she can hear conversation inside the car and will able to take necessary steps.",
     animation: "fade-right",
   },
   {
@@ -113,7 +113,7 @@ export const featuredData = [
     image: Sharing,
     title: "Vehicle Sharing",
     description:
-      " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing ",
+      "A unique feature of Sultan Tracker vehicle tracking system is vehicle sharing. Vehicle owner can share their car with anyone registered in Sultan Tracker App. Shared user can live track the vehicle and see reports and ensure the safety of his relative’s  and/or his valuables.",
     animation: "fade-right",
   },
   {
