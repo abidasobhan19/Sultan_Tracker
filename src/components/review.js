@@ -8,7 +8,7 @@ import CardContent from "@material-ui/core/CardContent";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Avatar from "@material-ui/core/Avatar";
-
+import { grey } from "@material-ui/core/colors";
 import { Review } from "../data";
 
 export default class Fag extends Component {
@@ -33,9 +33,10 @@ export default class Fag extends Component {
         <div
           style={{
             width: "100%",
-            height: 600,
+            height: 300,
             overflow: "hidden",
             marginTop: 10,
+            backgroundColor: grey[200],
           }}
         >
           <Slider {...settings}>
@@ -44,6 +45,7 @@ export default class Fag extends Component {
                 <div
                   style={{
                     width: "100%",
+                    marginTop: 20,
                   }}
                 >
                   <Box display="flex" justifyContent="center">

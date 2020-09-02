@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import { Typography, Box } from "@material-ui/core";
 
 import Card from "@material-ui/core/Card";
-
+import { grey } from "@material-ui/core/colors";
 import Grid from "@material-ui/core/Grid";
 
 import { PricingData } from "../data";
@@ -25,7 +25,14 @@ const Pricing = () => {
         </Typography>
       </Box>
 
-      <Grid container style={{ width: "100%", overflow: "hidden" }}>
+      <Grid
+        container
+        style={{
+          width: "100%",
+          overflow: "hidden",
+          backgroundColor: grey[200],
+        }}
+      >
         {PricingData.map((item, index) => {
           return (
             <Grid key={index} item xs={4} style={{ padding: 10 }}>
