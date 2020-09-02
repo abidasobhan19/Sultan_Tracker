@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a93bcd1f5b56e0646eaa1e1034d0313a",
+    "revision": "362b3fc89171ad22a7ffee45821df210",
     "url": "/Sultan_Tracker/index.html"
   },
   {
-    "revision": "93965442ee01f24a27ea",
+    "revision": "cc67b2c18ec11f3b7cef",
     "url": "/Sultan_Tracker/static/css/2.f527e924.chunk.css"
   },
   {
-    "revision": "de8fb380277a242b826b",
+    "revision": "46c9c30ac21909c566db",
     "url": "/Sultan_Tracker/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "93965442ee01f24a27ea",
-    "url": "/Sultan_Tracker/static/js/2.d4072d6b.chunk.js"
+    "revision": "cc67b2c18ec11f3b7cef",
+    "url": "/Sultan_Tracker/static/js/2.a31b18ad.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/Sultan_Tracker/static/js/2.d4072d6b.chunk.js.LICENSE.txt"
+    "url": "/Sultan_Tracker/static/js/2.a31b18ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de8fb380277a242b826b",
-    "url": "/Sultan_Tracker/static/js/main.da14be5b.chunk.js"
+    "revision": "46c9c30ac21909c566db",
+    "url": "/Sultan_Tracker/static/js/main.b189c47b.chunk.js"
   },
   {
     "revision": "9f4eaeee746503a539d1",
@@ -66,6 +66,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec0452cd9fd4ca42f6905db805fde47f",
     "url": "/Sultan_Tracker/static/media/fuel_PNG48.ec0452cd.png"
+  },
+  {
+    "revision": "4be27c92ff2ccd3e235dac736aa73721",
+    "url": "/Sultan_Tracker/static/media/hmwall1.4be27c92.png"
+  },
+  {
+    "revision": "85df195a2f720e5fe4c622e95e7f750d",
+    "url": "/Sultan_Tracker/static/media/image40.85df195a.png"
+  },
+  {
+    "revision": "9412c4117b6ea90cbda570d178ab8d9d",
+    "url": "/Sultan_Tracker/static/media/image54.9412c411.png"
+  },
+  {
+    "revision": "f5ec257174323771cbb5ece201f8fabe",
+    "url": "/Sultan_Tracker/static/media/image68.f5ec2571.png"
   },
   {
     "revision": "93ae706872bb916c8d3faaa8b340b2fe",
@@ -134,6 +150,78 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "54d254d6d21b4d79eac460a7c393c517",
     "url": "/Sultan_Tracker/static/media/rrr.54d254d6.jpeg"
+  },
+  {
+    "revision": "f8a92b485b5712bf8ae360b8326fd2fa",
+    "url": "/Sultan_Tracker/static/media/s1.f8a92b48.png"
+  },
+  {
+    "revision": "201ce1353a39c7daf5332707552c3140",
+    "url": "/Sultan_Tracker/static/media/s10.201ce135.png"
+  },
+  {
+    "revision": "76cde738d2f1df5d670237a8b8e07de1",
+    "url": "/Sultan_Tracker/static/media/s11.76cde738.png"
+  },
+  {
+    "revision": "4cfdf0843076093e2a5eb938dc71ed0c",
+    "url": "/Sultan_Tracker/static/media/s12.4cfdf084.png"
+  },
+  {
+    "revision": "aed4c5422cbbacf69aa13fe6d45bb238",
+    "url": "/Sultan_Tracker/static/media/s13.aed4c542.png"
+  },
+  {
+    "revision": "b4e8cf878284431153438465633a105e",
+    "url": "/Sultan_Tracker/static/media/s14.b4e8cf87.png"
+  },
+  {
+    "revision": "3b3748d0d9b3480d7bb223303bbeea9c",
+    "url": "/Sultan_Tracker/static/media/s15.3b3748d0.png"
+  },
+  {
+    "revision": "b7d03753de49c662c1934ac69254e64c",
+    "url": "/Sultan_Tracker/static/media/s16.b7d03753.png"
+  },
+  {
+    "revision": "9fa89d5e9e5ee4eb9429d173d0b13743",
+    "url": "/Sultan_Tracker/static/media/s17.9fa89d5e.png"
+  },
+  {
+    "revision": "f92bf4569f95c65d0fc9328e91dcb7bd",
+    "url": "/Sultan_Tracker/static/media/s18.f92bf456.png"
+  },
+  {
+    "revision": "c961824e8f3d0c8390a3d93c706eb260",
+    "url": "/Sultan_Tracker/static/media/s2.c961824e.png"
+  },
+  {
+    "revision": "ce93f5c3ff322517c050c627dd9a78ff",
+    "url": "/Sultan_Tracker/static/media/s3.ce93f5c3.png"
+  },
+  {
+    "revision": "05d4a1b4c7262746ad333dd3399f24e4",
+    "url": "/Sultan_Tracker/static/media/s4.05d4a1b4.png"
+  },
+  {
+    "revision": "f4ad265b29ef04313d83f8d91a3cdf67",
+    "url": "/Sultan_Tracker/static/media/s5.f4ad265b.png"
+  },
+  {
+    "revision": "76b4903c33eabb3867dd123c6489502b",
+    "url": "/Sultan_Tracker/static/media/s6.76b4903c.png"
+  },
+  {
+    "revision": "f1c67db5e135af6d9b5ad447876134fe",
+    "url": "/Sultan_Tracker/static/media/s7.f1c67db5.png"
+  },
+  {
+    "revision": "0cfeebe22696822d8936a191516d7bcd",
+    "url": "/Sultan_Tracker/static/media/s8.0cfeebe2.png"
+  },
+  {
+    "revision": "2bb489b280f5c9f7173fe092d73dae9b",
+    "url": "/Sultan_Tracker/static/media/s9.2bb489b2.png"
   },
   {
     "revision": "7660578d420fca0f5beb006ac56c33da",
