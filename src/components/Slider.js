@@ -21,7 +21,10 @@ export default class MySlider extends Component {
       slidesToScroll: 1,
     };
     return (
-      <div style={{ width: "100%", height: 600, overflow: "hidden" }}>
+      <div
+        id="marginTop"
+        style={{ width: "100%", height: 600, overflow: "hidden" }}
+      >
         <Slider {...settings}>
           <div>
             <div

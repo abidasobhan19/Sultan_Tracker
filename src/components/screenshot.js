@@ -59,9 +59,9 @@ const names = [
   "Driver Profile Update",
   "Side Nav",
   "Payment Guide",
-  "Transtion",
-  "Transtion Summery",
-  "Transtion Expanded",
+  "Tranacstion",
+  "Transaction Summery",
+  "Transaction Expanded",
   "Setting",
 ];
 
@@ -88,12 +88,14 @@ const Screenshot = () => {
         overflow: "hidden",
       }}
     >
-      <Typography variant="h4" style={{ padding: 20 }}>
+      <Typography variant="h4" style={{ padding: 10 }}>
         {" "}
         ScreenShoot
       </Typography>
 
-      <Typography variant="h6">{name}</Typography>
+      <Typography variant="h6" style={{ padding: 10 }}>
+        {name}
+      </Typography>
 
       <div style={{ width: "70%" }}>
         <Slider

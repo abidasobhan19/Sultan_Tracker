@@ -65,7 +65,7 @@ const Homepage = () => {
       <Box display="flex" flexDirection="column">
         <Screenshot />
       </Box>
-      <Box display="flex" flexDirection="column">
+      <Box display="flex" flexDirection="column" style={{ height: 500 }}>
         <TopClients />
       </Box>
       <Box display="flex" flexDirection="column">
