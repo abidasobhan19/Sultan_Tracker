@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "362b3fc89171ad22a7ffee45821df210",
+    "revision": "452c22846c8242172b61ec25116b8cae",
     "url": "/Sultan_Tracker/index.html"
   },
   {
-    "revision": "cc67b2c18ec11f3b7cef",
+    "revision": "26b1e1d418cdcd3731fb",
     "url": "/Sultan_Tracker/static/css/2.f527e924.chunk.css"
   },
   {
-    "revision": "46c9c30ac21909c566db",
+    "revision": "f34a0a60395022b4b001",
     "url": "/Sultan_Tracker/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "cc67b2c18ec11f3b7cef",
-    "url": "/Sultan_Tracker/static/js/2.a31b18ad.chunk.js"
+    "revision": "26b1e1d418cdcd3731fb",
+    "url": "/Sultan_Tracker/static/js/2.e74eaa78.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/Sultan_Tracker/static/js/2.a31b18ad.chunk.js.LICENSE.txt"
+    "url": "/Sultan_Tracker/static/js/2.e74eaa78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46c9c30ac21909c566db",
-    "url": "/Sultan_Tracker/static/js/main.b189c47b.chunk.js"
+    "revision": "f34a0a60395022b4b001",
+    "url": "/Sultan_Tracker/static/js/main.30511c8c.chunk.js"
   },
   {
     "revision": "9f4eaeee746503a539d1",
@@ -44,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/media/alert.fa5cc51e.png"
   },
   {
-    "revision": "9d87ff43aefb5469d99521e58a2cad50",
-    "url": "/Sultan_Tracker/static/media/alerts.9d87ff43.png"
+    "revision": "0c120c40c6a8de56e4943993bc91cd4f",
+    "url": "/Sultan_Tracker/static/media/alerts.0c120c40.png"
   },
   {
     "revision": "9a303e79db2b67c364340fcfa3a1ee24",
     "url": "/Sultan_Tracker/static/media/bg1.9a303e79.png"
   },
   {
-    "revision": "82fbbd0e59314a464fffc00e0500e454",
-    "url": "/Sultan_Tracker/static/media/carsharing.82fbbd0e.png"
+    "revision": "25803e8ba7fdb63298b0a1aaab261ee5",
+    "url": "/Sultan_Tracker/static/media/carsharing.25803e8b.png"
   },
   {
     "revision": "323d60d321198b85701fad5532fe1a17",
@@ -136,6 +136,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/media/restrict.d9003d9e.png"
   },
   {
+    "revision": "b6fcca65360925959ea9e19e1baeab24",
+    "url": "/Sultan_Tracker/static/media/restrictboundary.b6fcca65.png"
+  },
+  {
     "revision": "9dc8ab528939442646ed7dbba1d5020c",
     "url": "/Sultan_Tracker/static/media/rev2.9dc8ab52.webp"
   },
@@ -152,76 +156,76 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/media/rrr.54d254d6.jpeg"
   },
   {
-    "revision": "f8a92b485b5712bf8ae360b8326fd2fa",
-    "url": "/Sultan_Tracker/static/media/s1.f8a92b48.png"
+    "revision": "cd86390cd285ca489ed7a3516e89027d",
+    "url": "/Sultan_Tracker/static/media/s1.cd86390c.png"
   },
   {
-    "revision": "201ce1353a39c7daf5332707552c3140",
-    "url": "/Sultan_Tracker/static/media/s10.201ce135.png"
+    "revision": "b867b5dfdb6359e73e27e5b4b719abdd",
+    "url": "/Sultan_Tracker/static/media/s10.b867b5df.png"
   },
   {
-    "revision": "76cde738d2f1df5d670237a8b8e07de1",
-    "url": "/Sultan_Tracker/static/media/s11.76cde738.png"
+    "revision": "a336fa375d765ca660979945b06df415",
+    "url": "/Sultan_Tracker/static/media/s11.a336fa37.png"
   },
   {
-    "revision": "4cfdf0843076093e2a5eb938dc71ed0c",
-    "url": "/Sultan_Tracker/static/media/s12.4cfdf084.png"
+    "revision": "5b9600421c333ec17ae988a653284a63",
+    "url": "/Sultan_Tracker/static/media/s12.5b960042.png"
   },
   {
-    "revision": "aed4c5422cbbacf69aa13fe6d45bb238",
-    "url": "/Sultan_Tracker/static/media/s13.aed4c542.png"
+    "revision": "bc4dc594600f893e60f47c154db9580c",
+    "url": "/Sultan_Tracker/static/media/s13.bc4dc594.png"
   },
   {
-    "revision": "b4e8cf878284431153438465633a105e",
-    "url": "/Sultan_Tracker/static/media/s14.b4e8cf87.png"
+    "revision": "5eca4cbd408bf7bcc572fa098201a6f7",
+    "url": "/Sultan_Tracker/static/media/s14.5eca4cbd.png"
   },
   {
-    "revision": "3b3748d0d9b3480d7bb223303bbeea9c",
-    "url": "/Sultan_Tracker/static/media/s15.3b3748d0.png"
+    "revision": "42578ee588403f74dccf43a9117cdbfa",
+    "url": "/Sultan_Tracker/static/media/s15.42578ee5.png"
   },
   {
-    "revision": "b7d03753de49c662c1934ac69254e64c",
-    "url": "/Sultan_Tracker/static/media/s16.b7d03753.png"
+    "revision": "ee50fc88a69dedf5bfe12bec57245fef",
+    "url": "/Sultan_Tracker/static/media/s16.ee50fc88.png"
   },
   {
-    "revision": "9fa89d5e9e5ee4eb9429d173d0b13743",
-    "url": "/Sultan_Tracker/static/media/s17.9fa89d5e.png"
+    "revision": "b43fd66dc8e5019c9cab9562bd2800b7",
+    "url": "/Sultan_Tracker/static/media/s17.b43fd66d.png"
   },
   {
-    "revision": "f92bf4569f95c65d0fc9328e91dcb7bd",
-    "url": "/Sultan_Tracker/static/media/s18.f92bf456.png"
+    "revision": "31624218907c58104caa427439fc138d",
+    "url": "/Sultan_Tracker/static/media/s18.31624218.png"
   },
   {
-    "revision": "c961824e8f3d0c8390a3d93c706eb260",
-    "url": "/Sultan_Tracker/static/media/s2.c961824e.png"
+    "revision": "ae71adeba8ab597aa1ed0b6611545350",
+    "url": "/Sultan_Tracker/static/media/s2.ae71adeb.png"
   },
   {
-    "revision": "ce93f5c3ff322517c050c627dd9a78ff",
-    "url": "/Sultan_Tracker/static/media/s3.ce93f5c3.png"
+    "revision": "404c2f36f0f65ae9b9b50d71a2afee9d",
+    "url": "/Sultan_Tracker/static/media/s3.404c2f36.png"
   },
   {
-    "revision": "05d4a1b4c7262746ad333dd3399f24e4",
-    "url": "/Sultan_Tracker/static/media/s4.05d4a1b4.png"
+    "revision": "c9b2eb68cfddb35680a3f97cefef528c",
+    "url": "/Sultan_Tracker/static/media/s4.c9b2eb68.png"
   },
   {
-    "revision": "f4ad265b29ef04313d83f8d91a3cdf67",
-    "url": "/Sultan_Tracker/static/media/s5.f4ad265b.png"
+    "revision": "cef9106770e459c33f1018bba7e7ac1a",
+    "url": "/Sultan_Tracker/static/media/s5.cef91067.png"
   },
   {
-    "revision": "76b4903c33eabb3867dd123c6489502b",
-    "url": "/Sultan_Tracker/static/media/s6.76b4903c.png"
+    "revision": "e3f63b56ae37e003a0182046ef86236a",
+    "url": "/Sultan_Tracker/static/media/s6.e3f63b56.png"
   },
   {
-    "revision": "f1c67db5e135af6d9b5ad447876134fe",
-    "url": "/Sultan_Tracker/static/media/s7.f1c67db5.png"
+    "revision": "56b0dfd292f0a25aeea3c22aa19e776f",
+    "url": "/Sultan_Tracker/static/media/s7.56b0dfd2.png"
   },
   {
-    "revision": "0cfeebe22696822d8936a191516d7bcd",
-    "url": "/Sultan_Tracker/static/media/s8.0cfeebe2.png"
+    "revision": "8412bcdc49d5da906c3c8719fe4d991b",
+    "url": "/Sultan_Tracker/static/media/s8.8412bcdc.png"
   },
   {
-    "revision": "2bb489b280f5c9f7173fe092d73dae9b",
-    "url": "/Sultan_Tracker/static/media/s9.2bb489b2.png"
+    "revision": "9e7bdbdadd0300f1212ae3871e16df14",
+    "url": "/Sultan_Tracker/static/media/s9.9e7bdbda.png"
   },
   {
     "revision": "7660578d420fca0f5beb006ac56c33da",
@@ -280,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/media/summery2.580014cc.png"
   },
   {
-    "revision": "f2ce617070bbe2c9d1c7ff60dca3c68d",
-    "url": "/Sultan_Tracker/static/media/traffic.f2ce6170.png"
+    "revision": "fa743d1061d490597acc09ab5c4ffe79",
+    "url": "/Sultan_Tracker/static/media/traffic.fa743d10.png"
   }
 ]);
