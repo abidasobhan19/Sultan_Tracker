@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sultan_Tracker/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Sultan_Tracker/static/js/main.30511c8c.chunk.js",
-    "main.js.map": "/Sultan_Tracker/static/js/main.30511c8c.chunk.js.map",
+    "main.js": "/Sultan_Tracker/static/js/main.f2c70b41.chunk.js",
+    "main.js.map": "/Sultan_Tracker/static/js/main.f2c70b41.chunk.js.map",
     "runtime-main.js": "/Sultan_Tracker/static/js/runtime-main.48b5f8d0.js",
     "runtime-main.js.map": "/Sultan_Tracker/static/js/runtime-main.48b5f8d0.js.map",
     "static/css/2.f527e924.chunk.css": "/Sultan_Tracker/static/css/2.f527e924.chunk.css",
     "static/js/2.e74eaa78.chunk.js": "/Sultan_Tracker/static/js/2.e74eaa78.chunk.js",
     "static/js/2.e74eaa78.chunk.js.map": "/Sultan_Tracker/static/js/2.e74eaa78.chunk.js.map",
     "index.html": "/Sultan_Tracker/index.html",
-    "precache-manifest.c934450b372ad5691682dd4f0e5b0eef.js": "/Sultan_Tracker/precache-manifest.c934450b372ad5691682dd4f0e5b0eef.js",
+    "precache-manifest.ab0cd8809889397d8a324f144c0800e4.js": "/Sultan_Tracker/precache-manifest.ab0cd8809889397d8a324f144c0800e4.js",
     "service-worker.js": "/Sultan_Tracker/service-worker.js",
     "static/css/2.f527e924.chunk.css.map": "/Sultan_Tracker/static/css/2.f527e924.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Sultan_Tracker/static/css/main.5ecd60fb.chunk.css.map",
@@ -22,8 +22,8 @@
     "static/media/bg1.png": "/Sultan_Tracker/static/media/bg1.9a303e79.png",
     "static/media/carsharing.png": "/Sultan_Tracker/static/media/carsharing.25803e8b.png",
     "static/media/feat1.png": "/Sultan_Tracker/static/media/feat1.323d60d3.png",
-    "static/media/fuel.png": "/Sultan_Tracker/static/media/fuel.d541025f.png",
     "static/media/fuel_PNG48.png": "/Sultan_Tracker/static/media/fuel_PNG48.ec0452cd.png",
+    "static/media/fuelmonitoring.png": "/Sultan_Tracker/static/media/fuelmonitoring.2ecea551.png",
     "static/media/hmwall1.png": "/Sultan_Tracker/static/media/hmwall1.4be27c92.png",
     "static/media/image40.png": "/Sultan_Tracker/static/media/image40.85df195a.png",
     "static/media/image54.png": "/Sultan_Tracker/static/media/image54.9412c411.png",
@@ -69,8 +69,8 @@
     "static/media/shohel.jpg": "/Sultan_Tracker/static/media/shohel.21c744eb.jpg",
     "static/media/slick-theme.css": "/Sultan_Tracker/static/media/slick.f97e3bbf.svg",
     "static/media/sos.png": "/Sultan_Tracker/static/media/sos.c971ee27.png",
-    "static/media/speed violation.png": "/Sultan_Tracker/static/media/speed violation.e6b3fa11.png",
     "static/media/speed2.png": "/Sultan_Tracker/static/media/speed2.ac0d4f16.png",
+    "static/media/speedviolation.png": "/Sultan_Tracker/static/media/speedviolation.7b84d7d4.png",
     "static/media/summery.png": "/Sultan_Tracker/static/media/summery.94288198.png",
     "static/media/summery2.png": "/Sultan_Tracker/static/media/summery2.580014cc.png",
     "static/media/traffic.png": "/Sultan_Tracker/static/media/traffic.fa743d10.png"
@@ -80,6 +80,6 @@
     "static/css/2.f527e924.chunk.css",
     "static/js/2.e74eaa78.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.30511c8c.chunk.js"
+    "static/js/main.f2c70b41.chunk.js"
   ]
 }

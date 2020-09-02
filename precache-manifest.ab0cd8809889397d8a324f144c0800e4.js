@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "452c22846c8242172b61ec25116b8cae",
+    "revision": "bb7217954b8625545fd77b19ebf0f020",
     "url": "/Sultan_Tracker/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/css/2.f527e924.chunk.css"
   },
   {
-    "revision": "f34a0a60395022b4b001",
+    "revision": "bdd588b5a34034497744",
     "url": "/Sultan_Tracker/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/js/2.e74eaa78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f34a0a60395022b4b001",
-    "url": "/Sultan_Tracker/static/js/main.30511c8c.chunk.js"
+    "revision": "bdd588b5a34034497744",
+    "url": "/Sultan_Tracker/static/js/main.f2c70b41.chunk.js"
   },
   {
     "revision": "9f4eaeee746503a539d1",
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/media/feat1.323d60d3.png"
   },
   {
-    "revision": "d541025f20e736a548841ec5928c8636",
-    "url": "/Sultan_Tracker/static/media/fuel.d541025f.png"
-  },
-  {
     "revision": "ec0452cd9fd4ca42f6905db805fde47f",
     "url": "/Sultan_Tracker/static/media/fuel_PNG48.ec0452cd.png"
+  },
+  {
+    "revision": "2ecea5519973e0ef5443b722d6ecbcdb",
+    "url": "/Sultan_Tracker/static/media/fuelmonitoring.2ecea551.png"
   },
   {
     "revision": "4be27c92ff2ccd3e235dac736aa73721",
@@ -268,12 +268,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/media/sos.c971ee27.png"
   },
   {
-    "revision": "e6b3fa11db8026a9ae21bdb26fa33cdb",
-    "url": "/Sultan_Tracker/static/media/speed violation.e6b3fa11.png"
-  },
-  {
     "revision": "ac0d4f16e7ba29a6a872f31c00d78913",
     "url": "/Sultan_Tracker/static/media/speed2.ac0d4f16.png"
+  },
+  {
+    "revision": "7b84d7d4d28695b0b888219153b86020",
+    "url": "/Sultan_Tracker/static/media/speedviolation.7b84d7d4.png"
   },
   {
     "revision": "94288198baab6d7889d07efd3a766b95",
