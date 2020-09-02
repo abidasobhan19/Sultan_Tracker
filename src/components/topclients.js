@@ -9,7 +9,12 @@ import { Client } from "../data";
 const TopClients = () => {
   return (
     <Box id="client">
-      <Box display="flex" flexDirection="column" alignItems="center">
+      <Box
+        display="flex"
+        flexDirection="column"
+        alignItems="center"
+        style={{ marginTop: 50 }}
+      >
         <Typography variant="h2">Our Top Clients</Typography>
       </Box>
 
