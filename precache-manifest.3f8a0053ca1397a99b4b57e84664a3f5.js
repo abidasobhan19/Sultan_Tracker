@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb7217954b8625545fd77b19ebf0f020",
+    "revision": "a57105d78de78ae8fd17e1ef8ecfde31",
     "url": "/Sultan_Tracker/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/css/2.f527e924.chunk.css"
   },
   {
-    "revision": "bdd588b5a34034497744",
+    "revision": "63d300877d6318521042",
     "url": "/Sultan_Tracker/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sultan_Tracker/static/js/2.e74eaa78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bdd588b5a34034497744",
-    "url": "/Sultan_Tracker/static/js/main.f2c70b41.chunk.js"
+    "revision": "63d300877d6318521042",
+    "url": "/Sultan_Tracker/static/js/main.5e75feda.chunk.js"
   },
   {
     "revision": "9f4eaeee746503a539d1",
