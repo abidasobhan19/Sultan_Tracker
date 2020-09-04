@@ -6,7 +6,7 @@ import Card from "@material-ui/core/Card";
 import { Parallax, Background } from "react-parallax";
 import Grid from "@material-ui/core/Grid";
 import Avatar from "@material-ui/core/Avatar";
-import Summery from "../Image/gif/VdgG.gif";
+
 import {
   grey,
   blue,
