@@ -36,7 +36,6 @@ export default class Fag extends Component {
             height: 300,
             overflow: "hidden",
             marginTop: 10,
-            backgroundColor: grey[200],
           }}
         >
           <Slider {...settings}>

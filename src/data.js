@@ -31,12 +31,12 @@ import rev1 from "./Image/review.webp";
 import rev2 from "./Image/rev2.webp";
 import rev3 from "./Image/rev3.webp";
 import rev4 from "./Image/photo.webp";
-import shohel from "./Image/Team/shohel.jpg";
-import Shamim from "./Image/Team/shamim.jpg";
-import abid from "./Image/Team/abid.jpg";
-import saimul from "./Image/Team/saimul.jpg";
-import Kashem from "./Image/Team/kasam.jpeg";
-import Rumon from "./Image/Team/rrr.jpeg";
+import shohel from "./Image/Team/Sohel.png";
+import Shamim from "./Image/Team/Shamim.png";
+import abid from "./Image/Team/abid.png";
+import saimul from "./Image/Team/Saimul.png";
+import Kashem from "./Image/Team/Kashem.png";
+import Rumon from "./Image/Team/Rumon.png";
 
 export const featuredData = [
   {

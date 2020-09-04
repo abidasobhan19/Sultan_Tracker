@@ -24,7 +24,10 @@ const FeatureItem = ({ image, title, description, animation, index }) => {
         justifyContent="center"
         alignItems="center"
       >
-        <img src={image} style={{ height: 300 }} />
+        <Box display="flex" style={{ width: "100%" }}>
+          {" "}
+          <img src={image} style={{ height: 300 }} />
+        </Box>
       </Box>
 
       <Box

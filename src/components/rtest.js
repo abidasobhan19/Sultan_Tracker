@@ -1,126 +1,56 @@
-import React, { useState } from "react";
-import { Box, Typography } from "@material-ui/core";
-import TextField from "@material-ui/core/TextField";
-import Button from "@material-ui/core/Button";
-import axios from "axios";
+import React from "react";
+import { Parallax, Background } from "react-parallax";
+import Fuel from "../Image/Feature/fuelmonitoring.png";
+import Summery from "../Image/Feature/summery.png";
+import Alerts from "../Image/Feature/alerts.png";
+import Review from "./review";
 
-const url = "https://jsonplaceholder.typicode.com/posts";
+const TTTT = () => (
+  <div>
+    {/* -----basic config-----*/}
+    <Parallax blur={10} bgImageAlt="the cat" strength={200}>
+      <Review />
+      <div style={{ height: "200px" }} />
+    </Parallax>
 
-const TTTT = () => {
-  const [contact, setContact] = useState({
-    name: "",
-    email: "",
-    mobile: "",
-    message: "",
-  });
-
-  const [disable, setdisable] = useState(true);
-
-  const handlesubmitClick = (e) => {
-    console.log("hello");
-
-    const data = {
-      userId: 1,
-      title: "mytitle",
-      body:
-        "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-    };
-    axios
-      .post(url, data)
-      .then((res) => console.log(res.data))
-      .catch((err) => console.log(err));
-  };
-
-  const handleChange = (e) => {
-    const newContact = { ...contact };
-    newContact[e.target.name] = e.target.value;
-
-    newContact.name !== "" &&
-    newContact.email !== "" &&
-    newContact.mobile !== "" &&
-    newContact.message !== ""
-      ? setdisable(false)
-      : setdisable(true);
-    setContact(newContact);
-  };
-  return (
-    <Box
-      id="contact"
-      style={{
-        padding: 10,
-      }}
+    {/* -----dynamic blur-----*/}
+    <Parallax
+      blur={{ min: -15, max: 15 }}
+      bgImage={Summery}
+      bgImageAlt="the dog"
+      strength={-200}
     >
-      <Typography variant="h3" style={{ textAlign: "center" }}>
-        Leave a Message
-      </Typography>
+      Blur transition from min to max
+      <div style={{ height: "200px" }} />
+    </Parallax>
 
-      <Box display="flex" style={{ margin: 20 }}>
-        <Box
-          display="flex"
-          flexDirection="column"
-          flexGrow="1"
-          style={{ marginRight: 10 }}
-        >
-          <Typography variant="h6">Name</Typography>
-          <TextField
-            variant="outlined"
-            label="Name:"
-            name="name"
-            value={contact.name}
-            onChange={handleChange}
-          />
-        </Box>
-        <Box
-          display="flex"
-          flexDirection="column"
-          flexGrow="1"
-          style={{ marginLeft: 10 }}
-        >
-          <Typography variant="h6">Email</Typography>
-          <TextField
-            variant="outlined"
-            label="Email:"
-            name="email"
-            value={contact.email}
-            onChange={handleChange}
-          />
-        </Box>
-      </Box>
-      <Box style={{ margin: 20 }}>
-        <Typography variant="h6">Mobile</Typography>
-        <TextField
-          fullWidth
-          variant="outlined"
-          label="Mobile:"
-          name="mobile"
-          value={contact.mobile}
-          onChange={handleChange}
+    {/* -----custom background element-----*/}
+    <Parallax strength={300}>
+      <div>Use the background component for custom elements</div>
+      <Background className="custom-bg">
+        <img src="http://www.fillmurray.com/500/320" alt="fill murray" />
+      </Background>
+    </Parallax>
+
+    {/* -----renderProp: "renderLayer"-----*/}
+    <Parallax
+      bgImage={Alerts}
+      strength={400}
+      renderLayer={(percentage) => (
+        <div
+          style={{
+            position: "absolute",
+            background: `rgba(255, 125, 0, ${percentage * 1})`,
+            left: "50%",
+            top: "50%",
+            width: percentage * 500,
+            height: percentage * 500,
+          }}
         />
-      </Box>
-      <Box display="flex" style={{ margin: 20 }}>
-        <Box display="flex" flexDirection="column" style={{ width: "100%" }}>
-          <Typography variant="h6">Message</Typography>
-          <textarea
-            style={{ margin: "0px", width: "100%", height: "155px" }}
-            variant="outlined"
-            label="Message:"
-            name="message"
-            value={contact.message}
-            onChange={handleChange}
-          ></textarea>
-          <Button
-            style={{ marginTop: 10, width: 150 }}
-            variant="contained"
-            color="primary"
-            disabled={disable}
-            onClick={handlesubmitClick}
-          >
-            Send Message
-          </Button>
-        </Box>
-      </Box>
-    </Box>
-  );
-};
-
+      )}
+    >
+      <p>... Content</p>
+    </Parallax>
+  </div>
+);
 export default TTTT;

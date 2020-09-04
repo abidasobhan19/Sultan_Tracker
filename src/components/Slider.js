@@ -3,8 +3,8 @@ import Slider from "react-slick";
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+
 import Slide0 from "../Image/bg1.png";
-import Slide1 from "../Image/hmwall1.png";
 import Slidee2 from "../Image/image40.png";
 import Slide3 from "../Image/image54.png";
 import Slide4 from "../Image/image68.png";
@@ -37,7 +37,7 @@ export default class MySlider extends Component {
               <img src={Slide0} style={{ height: 500, width: "100%" }} />
             </div>
           </div>
-          <div>
+          {/* <div>
             <div
               style={{
                 display: "flex",
@@ -47,7 +47,7 @@ export default class MySlider extends Component {
             >
               <img src={Slide1} style={{ height: 500, width: "100%" }} />
             </div>
-          </div>
+          </div> */}
           <div>
             <div
               style={{
