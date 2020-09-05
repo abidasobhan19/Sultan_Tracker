@@ -81,7 +81,7 @@ const OurService = () => {
                         height: 100,
                         width: 275,
                         paddingTop: 40,
-                        backgroundColor: "transparent",
+                        backgroundColor: " #fafafa",
                       }}
                     >
                       <Box display="flex" justifyContent="center">
